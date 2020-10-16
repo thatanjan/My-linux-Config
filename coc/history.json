@@ -1,0 +1,53 @@
+{
+  "outline": {
+    "%2Fhome%2Fanjan": [
+      "jj",
+      "hel"
+    ]
+  },
+  "snippets": {
+    "%2Fhome%2Fanjan%2F": {
+      "config%2Fnvim%2Fplug-config": [
+        "plug"
+      ]
+    },
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fanjan-portofolio": [
+      "rafce",
+      "reac",
+      "re"
+    ],
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fgood_buy": [
+      "react",
+      "syled",
+      "router",
+      "arrow",
+      "import",
+      "framer",
+      "themej",
+      "styled",
+      "navlink",
+      "routerjjjjjj"
+    ],
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fdev_gram": [
+      "express"
+    ],
+    "%2Fhome%2Fanjan": [
+      "jk"
+    ]
+  },
+  "lists": {
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fgood_buy": [
+      "sni"
+    ],
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fdev_gram": [
+      "sni"
+    ]
+  },
+  "extensions": {
+    "%2Fhome%2Fanjan%2Fgit_projects%2Fgood_buy": [
+      "e",
+      "w",
+      "k"
+    ]
+  }
+}
