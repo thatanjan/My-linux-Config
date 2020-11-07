@@ -1,0 +1,162 @@
+Looking for git in: git
+Using git 2.29.1 from git
+> git rev-parse --git-dir
+Open repository: /home/anjan/client
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.prettierrc.json
+> git ls-files --stage -- /home/anjan/client/.prettierrc.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git show --textconv :.prettierrc.json
+> git ls-files --stage -- /home/anjan/client/.prettierrc.json
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.prettierrc.json
+> git ls-files --stage -- /home/anjan/client/.prettierrc.json
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/client/.eslintrc.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.prettierrc.json
+> git ls-files --stage -- /home/anjan/client/.prettierrc.json
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/client/.eslintrc.json
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/client/.eslintrc.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.prettierrc.json
+> git ls-files --stage -- /home/anjan/client/.prettierrc.json
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/client/.eslintrc.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/anjan/client/src/App.tsx
+> git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/client/.eslintrc.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

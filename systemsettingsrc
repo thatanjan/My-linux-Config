@@ -1,0 +1,16 @@
+[DownloadDialog Settings]
+HDMI1 Height 1080=459
+HDMI1 Width 1920=700
+
+[MainWindow]
+HDMI1 Height 1080=700
+HDMI1 Width 1920=1024
+HDMI1 XPosition=431
+HDMI1 YPosition=285
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=pulse

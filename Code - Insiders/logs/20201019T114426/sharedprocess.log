@@ -1,0 +1,21 @@
+[2020-10-19 11:44:31.398] [sharedprocess] [info] main {"machineId":"bac648498d544dde2852f4ddba8bf3982eca7e7917ad68b4de1baa20d24ffa80","windowId":2}
+[2020-10-19 11:44:31.587] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/anjan/.config/Code - Insiders/User/snippets'
+[2020-10-19 11:45:11.466] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-19 11:46:03.233] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-10-19 11:46:04.501] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2020-10-19 11:46:04.982] [sharedprocess] [info] Extracted extension to /home/anjan/.vscode-insiders/extensions/.dbaeumer.vscode-eslint-2.1.10: dbaeumer.vscode-eslint
+[2020-10-19 11:46:04.982] [sharedprocess] [info] Renamed to /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10
+[2020-10-19 11:46:04.986] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-10-19 11:46:05.036] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-10-19 11:46:32.173] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-10-19 11:46:42.014] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2020-10-19 11:46:42.997] [sharedprocess] [info] Extracted extension to /home/anjan/.vscode-insiders/extensions/.esbenp.prettier-vscode-5.7.1: esbenp.prettier-vscode
+[2020-10-19 11:46:42.998] [sharedprocess] [info] Renamed to /home/anjan/.vscode-insiders/extensions/esbenp.prettier-vscode-5.7.1
+[2020-10-19 11:46:43.002] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-10-19 11:46:43.039] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-10-19 11:47:54.877] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2020-10-19 11:48:01.580] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim undefined
+[2020-10-19 11:48:02.571] [sharedprocess] [info] Extracted extension to /home/anjan/.vscode-insiders/extensions/.asvetliakov.vscode-neovim-0.0.63: asvetliakov.vscode-neovim
+[2020-10-19 11:48:02.571] [sharedprocess] [info] Renamed to /home/anjan/.vscode-insiders/extensions/asvetliakov.vscode-neovim-0.0.63
+[2020-10-19 11:48:02.584] [sharedprocess] [info] Installation completed. asvetliakov.vscode-neovim
+[2020-10-19 11:48:02.618] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim

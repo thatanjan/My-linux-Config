@@ -1,0 +1,272 @@
+["INFO" - 1:41:25 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 1:41:25 PM] Extension Version: 5.7.1.
+["INFO" - 1:41:25 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:41:25 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:41:25 PM] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 1:41:25 PM] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jsonl, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 1:41:25 PM] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 1:42:19 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:42:19 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:42:19 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:42:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:19 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:19 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:42:19 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 4,
+  "semi": false
+}
+["INFO" - 1:42:20 PM] Formatting completed in 990.213049ms.
+["INFO" - 1:42:43 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:42:43 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:42:43 PM] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 1:42:43 PM] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jsonl, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 1:42:43 PM] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 1:43:09 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:43:09 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:43:09 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:43:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:43:09 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:43:09 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:43:09 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:43:09 PM] Formatting completed in 174.882297ms.
+["INFO" - 1:44:26 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:44:26 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:44:26 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:44:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:44:26 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:44:26 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:44:26 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:44:26 PM] Formatting completed in 196.781996ms.
+["INFO" - 1:45:05 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:45:05 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:45:05 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:45:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:45:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:05 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:45:05 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:45:05 PM] Formatting completed in 50.972899ms.
+["INFO" - 1:45:09 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:45:09 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:45:09 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:45:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:45:09 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:09 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:45:09 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:45:09 PM] Formatting completed in 54.345872ms.
+["INFO" - 1:45:12 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:45:12 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:45:12 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:45:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:45:12 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:12 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:45:12 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:45:13 PM] Formatting completed in 70.604275ms.
+["INFO" - 1:45:34 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:45:34 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:45:34 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:45:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:45:34 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:34 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:45:34 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:45:34 PM] Formatting completed in 61.853635ms.
+["INFO" - 1:45:46 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:45:46 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:45:46 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:45:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:45:46 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:46 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:45:46 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:45:46 PM] Formatting completed in 47.936047ms.
+["INFO" - 1:46:08 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:46:08 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:46:08 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:46:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:46:08 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:46:08 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:46:08 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:46:08 PM] Formatting completed in 59.394284ms.
+["INFO" - 1:46:18 PM] Formatting /home/anjan/client/src/App.tsx
+["INFO" - 1:46:18 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:46:18 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:46:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:46:18 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:46:18 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:46:18 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/src/App.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:46:18 PM] Formatting completed in 81.977213ms.
+["INFO" - 1:46:38 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:46:38 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:46:38 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:46:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:46:38 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:46:38 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:46:38 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:46:38 PM] Formatting completed in 68.899794ms.
+["INFO" - 1:46:48 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:46:48 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:46:48 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:46:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:46:48 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:46:48 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:46:48 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:46:48 PM] Formatting completed in 50.793164ms.
+["INFO" - 1:46:57 PM] Formatting /home/anjan/client/.eslintrc.json
+["INFO" - 1:46:57 PM] Using ignore file (if present) at /home/anjan/client/.prettierignore
+["INFO" - 1:46:57 PM] Loaded module 'prettier@2.1.2' from '/home/anjan/client/node_modules/prettier/index.js'
+["INFO" - 1:46:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:46:57 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:46:57 PM] Using config file at '/home/anjan/client/.prettierrc.json'
+["INFO" - 1:46:57 PM] Prettier Options:
+{
+  "filepath": "/home/anjan/client/.eslintrc.json",
+  "parser": "json",
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 10,
+  "semi": false
+}
+["INFO" - 1:46:57 PM] Formatting completed in 44.235849ms.

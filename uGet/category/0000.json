@@ -1,0 +1,224 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/anjan",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 2009382185,
+					"total": 2009382185,
+					"elapsed": 196,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1604675535,
+					"completed-time": 1604675732,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1604675536
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Incredibles 2",
+					"uri": "http:\/\/10.16.100.241\/ftps3d10\/Movies\/Animated\/Incredibles%202%20(2018)%201080p%20WEBRip.mkv",
+					"file": "Incredibles 2",
+					"folder": "\/home\/anjan",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/anjan\/Incredibles 2",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 679397450,
+					"total": 679397450,
+					"elapsed": 112,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1604675345,
+					"completed-time": 1604675458,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1604675346
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Siccin 3",
+					"uri": "http:\/\/10.16.100.245\/ftps2d1\/Movies\/Other%20Foriegn%20Movie\/Turkish\/Siccin%203%20Love%20(Sicc%C3%AEn%203%20C%C3%BCrm%C3%BC%20Ask)%20(2016)%20Turkish%201080p%20WEBRip.MKV",
+					"file": "Siccin 3",
+					"folder": "\/home\/anjan",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/anjan\/Siccin 3",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 707229519,
+					"total": 707229519,
+					"elapsed": 107,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1604675321,
+					"completed-time": 1604675428,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1604675321
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Siccin 2",
+					"uri": "http:\/\/10.16.100.246\/ftps4d3\/Movies\/Other%20Foreign%20Movie\/Turkish\/Sijjin%202%20(Siccin%202)%20(2015)%20Turkish%201080p%20WEBRip.MKV",
+					"file": "Siccin 2",
+					"folder": "\/home\/anjan",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/anjan\/Siccin 2",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

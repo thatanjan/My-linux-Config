@@ -11,6 +11,8 @@ alias grv='git remote -v'
 alias gra='git remote add'
 alias gp='git push'
 alias gpu='git pull'
+alias gcm="git commit -m"
+alias gcam="git commit -am"
 alias v='nvim'
 alias po='sudo poweroff'
 alias rbt='sudo reboot'
@@ -20,6 +22,12 @@ alias pacr='sudo pacman -Rns'
 alias pacu='sudo pacman -Syu'
 alias picoc='nvim ~/.config/picom/picom.conf'
 alias alac='nvim ~/.config/alacritty/alacritty.yml'
+alias yad='yarn add --dev'
+alias ya='yarn add'
 
-
+set PATH /home/anjan/.local/bin $PATH
 set PATH /home/anjan/.yarn/bin $PATH
+set PATH /home/anjan/.emacs.d/bin $PATH
+
+set -x QT_STYLE_OVERIDE GTK+
+set -x QT_QPA_PLATFORMTHEME qt5ct

@@ -1,0 +1,120 @@
+[2020-10-28 13:40:18.576] [exthost] [info] extension host started
+[2020-10-28 13:40:19.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-10-28 13:40:19.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-10-28 13:40:19.305] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-10-28 13:40:19.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-28 13:40:20.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-28 13:40:20.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-10-28 13:40:20.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-28 13:40:20.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-10-28 13:40:20.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-28 13:40:20.635] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-10-28 13:40:20.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-28 13:40:20.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-10-28 13:40:20.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-28 13:40:20.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-28 13:40:20.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-28 13:40:20.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-10-28 13:40:20.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-28 13:40:20.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-28 13:40:21.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-28 13:40:21.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-10-28 13:40:21.062] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2020-10-28 13:40:21.062] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/asvetliakov.vscode-neovim-0.0.63/dist/extension.js
+[2020-10-28 13:40:21.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-10-28 13:40:21.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-10-28 13:40:21.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-10-28 13:40:21.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/npm/dist/npmMain
+[2020-10-28 13:40:24.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-10-28 13:40:24.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2020-10-28 13:40:24.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-28 13:40:24.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github/dist/extension.js
+[2020-10-28 13:40:24.892] [exthost] [info] eager extensions activated
+[2020-10-28 13:40:25.003] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2020-10-28 13:40:25.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension
+[2020-10-28 13:40:25.151] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-10-28 13:40:25.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-10-28 13:41:23.462] [exthost] [info] extension host started
+[2020-10-28 13:41:23.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-10-28 13:41:23.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-10-28 13:41:23.645] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-10-28 13:41:23.645] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-28 13:41:24.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-28 13:41:24.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-10-28 13:41:24.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-28 13:41:24.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-28 13:41:24.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-28 13:41:24.077] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-10-28 13:41:24.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-28 13:41:24.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-28 13:41:24.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-28 13:41:24.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-10-28 13:41:24.123] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2020-10-28 13:41:24.124] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/asvetliakov.vscode-neovim-0.0.63/dist/extension.js
+[2020-10-28 13:41:24.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-10-28 13:41:24.180] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/npm/dist/npmMain
+[2020-10-28 13:41:25.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-28 13:41:25.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github/dist/extension.js
+[2020-10-28 13:41:25.225] [exthost] [info] eager extensions activated
+[2020-10-28 13:41:25.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-10-28 13:41:25.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2020-10-28 13:41:25.299] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2020-10-28 13:41:25.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.13/client/out/extension
+[2020-10-28 13:41:25.355] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-10-28 13:41:25.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-10-28 13:41:29.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescriptreact"}
+[2020-10-28 13:41:29.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-10-28 13:42:09.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-28 13:42:09.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-10-28 13:42:09.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-28 13:42:09.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-10-28 13:42:28.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-10-28 13:42:28.241] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-10-28 13:42:29.201] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-10-28 13:42:29.203] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:60830)
+	at _.handleFailedRequest (/opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:60684)
+	at /opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:23462
+[2020-10-28 13:46:05.703] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-28 13:46:05.705] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.3)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1499:25)
+    at deleteTypeParameters (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135099:65)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:100
+    at Function.ChangeTracker.with (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129425:17)
+    at Object.getCodeActions (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:68)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:77
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:23)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143796:35
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143794:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154662:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153339:61)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:76455)
+	at dispatchResponse (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:70330)
+	at dispatchMessage (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:69189)
+	at /opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:68699
+	at l.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at g.onLengthData (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)

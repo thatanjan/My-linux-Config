@@ -1,0 +1,19 @@
+[Info  - 1:41:28 PM] ESLint server is starting
+[Info  - 1:41:30 PM] ESLint server running in node v12.14.1
+[Info  - 1:41:30 PM] ESLint server is running.
+[Info  - 1:41:34 PM] ESLint library loaded from: /home/anjan/client/node_modules/eslint/lib/api.js
+(node:10722) UnhandledPromiseRejectionWarning: SyntaxError: Cannot read config file: /home/anjan/client/.eslintrc.json
+Error: Unexpected string in JSON at position 416
+    at JSON.parse (<anonymous>)
+    at loadJSONConfigFile (/home/anjan/client/node_modules/@eslint/eslintrc/lib/config-array-factory.js:180:21)
+    at loadConfigFile (/home/anjan/client/node_modules/@eslint/eslintrc/lib/config-array-factory.js:314:20)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/client/node_modules/@eslint/eslintrc/lib/config-array-factory.js:501:34)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/client/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:378:46)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/client/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:397:20)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/client/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:18)
+    at CLIEngine.getConfigForFile (/home/anjan/client/node_modules/eslint/lib/cli-engine/cli-engine.js:952:14)
+    at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.13/server/out/eslintServer.js:1:39808
+    at de (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.13/server/out/eslintServer.js:1:49508)
+(node:10722) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:10722) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[Info  - 1:46:59 PM] ESLint server stopped.

@@ -1,0 +1,36 @@
+[Info  - 1:40:26 PM] ESLint server is starting
+[Info  - 1:40:28 PM] ESLint server running in node v12.14.1
+[Info  - 1:40:28 PM] ESLint server is running.
+[Info  - 1:40:35 PM] ESLint library loaded from: /home/anjan/git_projects/dev-book/node_modules/eslint/lib/api.js
+(node:10326) UnhandledPromiseRejectionWarning: Error: .eslintrc.json:
+	Configuration for rule "import/resolver" is invalid:
+	Severity should be one of the following: 0 = off, 1 = warn, 2 = error (you passed '{ typescript: {} }').
+
+    at validateRuleOptions (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:144:19)
+    at /home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:199:9
+    at Array.forEach (<anonymous>)
+    at validateRules (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:196:30)
+    at validateConfigArray (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:324:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:476:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:287:21)
+    at CLIEngine.getConfigForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cli-engine.js:933:14)
+    at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/server/out/eslintServer.js:1:39808
+    at de (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/server/out/eslintServer.js:1:49450)
+(node:10326) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:10326) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:10326) UnhandledPromiseRejectionWarning: Error: .eslintrc.json:
+	Configuration for rule "import/resolver" is invalid:
+	Severity should be one of the following: 0 = off, 1 = warn, 2 = error (you passed '{ typescript: {} }').
+
+    at validateRuleOptions (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:144:19)
+    at /home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:199:9
+    at Array.forEach (<anonymous>)
+    at validateRules (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:196:30)
+    at validateConfigArray (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/shared/config-validator.js:324:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:476:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:287:21)
+    at CLIEngine.getConfigForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cli-engine.js:933:14)
+    at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/server/out/eslintServer.js:1:39808
+    at de (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/server/out/eslintServer.js:1:49450)
+(node:10326) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+[Info  - 1:41:11 PM] ESLint server stopped.

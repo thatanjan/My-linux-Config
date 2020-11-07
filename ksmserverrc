@@ -1,0 +1,21 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10cf6e6a61000160473734500000011660002
+clientId2=10cf6e6a61000160473046500000006190002
+clientId3=10cf6e6a61000160473734800000011660005
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_10cf6e6a61000160473046500000006190002_1604737363_702924
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kmix
+program3=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10cf6e6a61000160473734500000011660002_1604737363_702892
+restartCommand2=/usr/bin/kmix,-session,10cf6e6a61000160473046500000006190002_1604737363_702924
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=anjan
+userId2=anjan
+userId3=anjan

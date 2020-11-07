@@ -1,0 +1,10 @@
+[Error  - 05:47:06.116] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Info  - 05:48:34.805] Logging in...
+[Info  - 05:49:05.151] Exchanging login code for token
+[Info  - 05:49:06.23] Exchanging login code for token success
+[Info  - 05:49:06.26] Login successful
+[Info  - 05:49:06.27] Token available from cache, expires in 3598998 milliseconds
+[Info  - 05:49:06.40] Token available from cache, expires in 3598985 milliseconds
+[Info  - 05:49:06.41] Token available from cache, expires in 3598984 milliseconds
+[Info  - 05:49:06.60] Token available from cache, expires in 3598965 milliseconds
+[Error  - 05:49:06.238] Setting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files

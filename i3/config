@@ -10,13 +10,15 @@ floating_modifier $super
 
 #autostart
 exec --no-startup-id xsettingsd &
+exec --no-startup-id dunst
 exec_always --no-startup-id picom --config ~/.config/picom/picom.conf 
 # exec_always --no-startup-id feh --bg-fill '/home/anjan/wallpapers/CULES WALLPAPER.jpg'
-exec_always --no-startup-id feh --bg-fill '/home/anjan/wallpapers/wonder_woman_3.jpg'
+exec_always --no-startup-id feh --bg-fill '/home/anjan/wallpapers/used/anime_5.jpg'
+# exec_always --no-startup-id feh --bg-fill '/home/anjan/wallpapers/tw_1.jpg'
 # exec --no-startup-id polybar example
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always amixer
-exec_always pulseaudio
+# exec_always amixer
+exec_always --no-startup-id start-pulseaudio-x11
 
 # start a terminal
 bindsym $super+Return exec alacritty
@@ -31,7 +33,7 @@ bindsym Print exec scrot 'Cheese_%a-%d%b%y_%H.%M.png' -e 'viewnior ~/$f'
 bindsym $super+Shift+w exec brave
 bindsym $super+Shift+f exec firefox
 bindsym $super+Shift+g exec geany
-bindsym $super+Shift+n exec nautilus
+bindsym $super+Shift+n exec dolphin
 bindsym $super+alt+r exec ranger 
 
 #change volume

@@ -1,0 +1,28 @@
+[2020-10-19 11:58:35.611] [exthost] [info] extension host started
+[2020-10-19 11:58:35.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-10-19 11:58:35.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-10-19 11:58:35.964] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-10-19 11:58:35.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-19 11:58:36.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-19 11:58:36.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-10-19 11:58:36.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-19 11:58:36.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-19 11:58:36.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-19 11:58:36.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-10-19 11:58:36.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-19 11:58:36.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-19 11:58:36.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-19 11:58:36.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-10-19 11:58:36.989] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2020-10-19 11:58:36.989] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/asvetliakov.vscode-neovim-0.0.63/dist/extension.js
+[2020-10-19 11:58:37.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-10-19 11:58:37.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/npm/dist/npmMain
+[2020-10-19 11:58:38.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-19 11:58:38.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github/dist/extension.js
+[2020-10-19 11:58:38.806] [exthost] [info] eager extensions activated
+[2020-10-19 11:58:38.958] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2020-10-19 11:58:38.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension
+[2020-10-19 11:58:39.020] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-10-19 11:58:39.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-10-19 11:58:39.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-10-19 11:58:39.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github-authentication/dist/extension.js

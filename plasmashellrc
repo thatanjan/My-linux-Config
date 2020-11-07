@@ -1,0 +1,19 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/wallpapers/1d Wallpapers One Direction Trkiye Fan Forumu Picture.jpg,file:$HOME/wallpapers/supergirl_3.jpg
+Recent URLs[$e]=file:$HOME/wallpapers/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:pavucontrol.desktop,1 services_applications:com.github.pulseaudio-equalizer-ladspa.Equalizer.desktop,4 services_applications:Alacritty.desktop,1 services_applications:kcm_pulseaudio.desktop,1 services_applications:org.kde.dolphin.desktop
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=46
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=46
+
+[ScreenConnectors]
+0=HDMI1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js

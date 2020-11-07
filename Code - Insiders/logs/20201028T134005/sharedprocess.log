@@ -1,0 +1,8 @@
+[2020-10-28 13:40:13.070] [sharedprocess] [info] main {"machineId":"bac648498d544dde2852f4ddba8bf3982eca7e7917ad68b4de1baa20d24ffa80","windowId":2}
+[2020-10-28 13:40:19.399] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-10-28 13:40:22.204] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2020-10-28 13:40:22.689] [sharedprocess] [info] Extracted extension to /home/anjan/.vscode-insiders/extensions/.dbaeumer.vscode-eslint-2.1.13: dbaeumer.vscode-eslint
+[2020-10-28 13:40:22.692] [sharedprocess] [info] Renamed to /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.13
+[2020-10-28 13:40:22.704] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-10-28 13:40:22.781] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-10-28 13:40:53.115] [sharedprocess] [info] Starting to clean up unused language packs.

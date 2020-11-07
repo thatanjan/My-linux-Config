@@ -1,0 +1,74 @@
+[2020-10-19 12:06:49.094] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-10-19 12:06:49.201] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-10-19 12:07:20.123] [renderer1] [error] Contributed command 'type' does not exist.: Error: Contributed command 'type' does not exist.
+	at _.$executeContributedCommand (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:697:685)
+	at m._doInvokeHandler (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:873:464)
+	at m._invokeHandler (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:873:156)
+	at m._receiveRequest (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:871:817)
+	at m._receiveOneMessage (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:870:623)
+	at /opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:868:691
+	at l.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at v.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:381)
+	at /opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1063:179
+	at l.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at v.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:381)
+	at t.PersistentProtocol._receiveMessage (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:451)
+	at /opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:489
+	at l.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at p.acceptChunk (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:851)
+	at /opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:203
+	at Socket.t (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:226)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-10-19 12:08:55.300] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:08:57.348] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:09:50.287] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:09:54.953] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:03.313] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:04.444] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:22.401] [renderer1] [error] Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json: Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)

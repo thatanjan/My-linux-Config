@@ -1,0 +1,99 @@
+[2020-10-19 12:05:39.542] [exthost] [info] extension host started
+[2020-10-19 12:05:39.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-10-19 12:05:39.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-10-19 12:05:40.007] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-10-19 12:05:40.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-19 12:05:41.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-19 12:05:41.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-10-19 12:05:41.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-19 12:05:41.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-19 12:05:41.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-19 12:05:41.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-10-19 12:05:41.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-19 12:05:41.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-19 12:05:41.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-19 12:05:41.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-10-19 12:05:41.464] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2020-10-19 12:05:41.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/asvetliakov.vscode-neovim-0.0.63/dist/extension.js
+[2020-10-19 12:05:41.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-10-19 12:05:41.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/npm/dist/npmMain
+[2020-10-19 12:05:42.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-19 12:05:42.950] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github/dist/extension.js
+[2020-10-19 12:05:43.005] [exthost] [info] eager extensions activated
+[2020-10-19 12:05:43.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-10-19 12:05:43.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2020-10-19 12:05:43.115] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2020-10-19 12:05:43.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension
+[2020-10-19 12:05:43.138] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-10-19 12:05:43.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anjan/.vscode-insiders/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-10-19 12:05:54.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-10-19 12:05:54.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-10-19 12:05:54.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-10-19 12:05:54.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-10-19 12:06:09.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-19 12:06:09.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-10-19 12:06:09.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-19 12:06:09.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-10-19 12:08:55.296] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:08:55.298] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:08:57.320] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:08:57.321] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:09:50.284] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:09:50.284] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:09:54.951] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:09:54.952] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:03.311] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:10:03.312] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:03.700] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:10:03.700] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:04.441] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:10:04.441] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:05.103] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:10:05.104] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)
+[2020-10-19 12:10:22.324] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2020-10-19 12:10:22.324] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:154962
+	at /home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155256
+	at Immediate.<anonymous> (/home/anjan/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension.js:1:155619)
+	at processImmediate (internal/timers.js:439:21)

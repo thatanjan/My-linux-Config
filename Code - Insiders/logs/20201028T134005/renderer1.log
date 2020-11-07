@@ -1,0 +1,73 @@
+[2020-10-28 13:43:07.004] [renderer1] [error] Cannot read property 'column' of undefined: TypeError: Cannot read property 'column' of undefined
+    at file:///opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:3041:198
+[2020-10-28 13:46:05.709] [renderer1] [error] <semantic> TypeScript Server Error (4.0.3)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1499:25)
+    at deleteTypeParameters (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135099:65)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:100
+    at Function.ChangeTracker.with (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129425:17)
+    at Object.getCodeActions (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:68)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:77
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:23)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143796:35
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143794:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154662:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153339:61)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23): Error: <semantic> TypeScript Server Error (4.0.3)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1499:25)
+    at deleteTypeParameters (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135099:65)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:100
+    at Function.ChangeTracker.with (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129425:17)
+    at Object.getCodeActions (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134985:68)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:77
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130599:23)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143796:35
+    at Object.flatMap (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143794:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154662:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153339:61)
+    at /opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/opt/visual-studio-code-insiders/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:76455)
+	at dispatchResponse (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:70330)
+	at dispatchMessage (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:69189)
+	at /opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:1:68699
+	at l.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at g.onLengthData (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)

@@ -1,0 +1,11 @@
+2020/11/02-23:23:48.998 4069 Reusing MANIFEST /home/anjan/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/02-23:23:48.999 4069 Recovering log #105
+2020/11/02-23:23:49.028 4069 Reusing old log /home/anjan/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000105.log 
+2020/11/02-23:24:22.385 4130 Level-0 table #110: started
+2020/11/02-23:24:22.926 4130 Level-0 table #110: 61157 bytes OK
+2020/11/02-23:24:23.234 4130 Delete type=0 #105
+2020/11/02-23:24:23.234 4130 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/02-23:25:11.854 4130 Compacting 1@1 + 1@2 files
+2020/11/02-23:25:12.050 4130 Generated table #111@1: 5737 keys, 641987 bytes
+2020/11/02-23:25:12.050 4130 Compacted 1@1 + 1@2 files => 641987 bytes
+2020/11/02-23:25:12.096 4130 compacted to: files[ 0 0 1 0 0 0 0 ]

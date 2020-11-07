@@ -1,0 +1,86 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --git-dir
+Open repository: /home/anjan/git_projects/dev-book
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :index.ts
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.ts
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/index.ts
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/.eslintrc.json
+> git cat-file -s 6172182659d884e0b86e7754b11a1afab21422b2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.ts
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/.eslintrc.json
+> git cat-file -s 6172182659d884e0b86e7754b11a1afab21422b2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse setup
+> git rev-parse --symbolic-full-name setup@{u}
+fatal: no upstream configured for branch 'setup'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.ts
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/index.ts
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/.eslintrc.json
+> git cat-file -s 6172182659d884e0b86e7754b11a1afab21422b2
+> git show --textconv :package.json
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/package.json
+> git cat-file -s b99442a008d9dc82b79813f8a23c188c04640bb0
+> git show --textconv :index.ts
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/index.ts
+> git show --textconv :.eslintrc.json
+> git ls-files --stage -- /home/anjan/git_projects/dev-book/.eslintrc.json
+> git cat-file -s 6172182659d884e0b86e7754b11a1afab21422b2

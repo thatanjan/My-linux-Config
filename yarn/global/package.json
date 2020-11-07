@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "all-the-package-names": "^1.3905.0",
+    "eslint": "^7.11.0",
+    "flow-bin": "^0.137.0",
+    "live-server": "^1.2.1",
+    "typescript": "^4.0.3"
+  }
+}

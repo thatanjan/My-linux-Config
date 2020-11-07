@@ -1,0 +1,120 @@
+[Info  - 12:05:54 PM] ESLint server is starting
+[Info  - 12:05:56 PM] ESLint server running in node v12.14.1
+[Info  - 12:05:56 PM] ESLint server is running.
+[Info  - 12:06:07 PM] ESLint library loaded from: /home/anjan/git_projects/dev-book/node_modules/eslint/lib/api.js
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:33204) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+[Error - 12:08:55 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:08:57 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+[Error - 12:09:50 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+(node:33204) UnhandledPromiseRejectionWarning: Error: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+    at configInvalidError (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:295:9)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:843:31)
+    at ConfigArrayFactory._loadExtends (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:774:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:715:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:660:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/config-array-factory.js:508:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:367:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/anjan/git_projects/dev-book/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:288:18)
+(node:33204) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+[Error - 12:09:54 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:10:03 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:10:03 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:10:04 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:10:05 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Error - 12:10:22 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Failed to load config "plugin:prettier/recomendded" to extend from.
+Referenced from: /home/anjan/git_projects/dev-book/.eslintrc.json
+  Code: -32603 
+[Info  - 12:10:37 PM] ESLint server stopped.
